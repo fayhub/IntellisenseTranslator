@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntellisenseTranslator", "IntellisenseTranslator.csproj", "{31EFB53D-F17B-4639-8E14-83CE0C35C20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EFB53D-F17B-4639-8E14-83CE0C35C20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EFB53D-F17B-4639-8E14-83CE0C35C20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EFB53D-F17B-4639-8E14-83CE0C35C20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EFB53D-F17B-4639-8E14-83CE0C35C20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75892118-5CD8-4933-AE97-C2D78B39A25E}
+	EndGlobalSection
+EndGlobal
